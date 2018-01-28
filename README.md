@@ -1,5 +1,17 @@
 # Terasort-on-Hadoop-Spark
 
+This Programming Assignment involves implementing the Sort Application using 3 different approaches:
+1) Shared Memory Sort.
+2) Apache Hadoop.
+3) Apache Spark.
+
+The Assignment Directory contains following documents and folders:
+
+1. Source Code of the program for Terasort on Hadoop, Spark adn Shared Memory - Source Code
+2. Performance Evaluation Report - prog2_report.pdf
+3. Snapshots of outputs running on Amazon AWS- Snapshots
+4. Configuration files of Hadoop and Spark - Config files
+
 STEPS FOR EXECUTION: 
 
 SHARED MEMORY: 
